@@ -7,11 +7,11 @@ transaction_ids = [
 def find_duplicates(ids_list):
     seen = set()
     duplicates = set()
-    for txn_id in ids_list:
-        if txn_id in seen:
-            duplicates.add(txn_id)
+    for trans_id in ids_list:
+        if trans_id in seen:
+            duplicates.add(trans_id)
         else:
-            seen.add(txn_id)
+            seen.add(trans_id)
     return duplicates
 
 
