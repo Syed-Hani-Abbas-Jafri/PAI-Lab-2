@@ -1,8 +1,8 @@
 students = {
     "Ali":   {"Math": 85, "Physics": 78, "English": 90},
-    "Sara":  {"Math": 92, "Physics": 88, "English": 95},
-    "Ahmed": {"Math": 60, "Physics": 55, "English": 70},
-    "Zain":  {"Math": 40, "Physics": 45, "English": 50},
+    "Hasan":  {"Math": 92, "Physics": 88, "English": 95},
+    "Husayn": {"Math": 60, "Physics": 55, "English": 70},
+    "Zayd":  {"Math": 40, "Physics": 45, "English": 50},
 }
 
 
