@@ -1,6 +1,6 @@
 emails = [
-    "ali@gmail.com", "sara@yahoo.com", "ali@gmail.com",
-    "ahmed@gmail.com", "sara@yahoo.com", "zain@hotmail.com",
+    "ali@gmail.com", "surayj@gmail.com", "adud@gmail.com",
+    "ahmed@gmail.com", "sayyar@gmail.com", "zeeshan@gmail.com",
 ]
 
 
