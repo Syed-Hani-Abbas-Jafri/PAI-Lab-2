@@ -15,7 +15,7 @@ def calculate_average(marks_dict):
     return total / count
 
 
-def get_all_averages(students_dict):
+def getaverages(students_dict):
     averages = {}
     for name, marks in students_dict.items():
         averages[name] = calculate_average(marks)
@@ -34,7 +34,7 @@ def get_top_student(students_dict):
 
 
 def students_above_threshold(students_dict, threshold):
-    averages = get_all_averages(students_dict)
+    averages = getaverages(students_dict)
     result = []
     for name, avg in averages.items():
         if avg > threshold:
@@ -43,7 +43,7 @@ def students_above_threshold(students_dict, threshold):
 
 
 print("All student averages:")
-for name, avg in get_all_averages(students).items():
+for name, avg in getaverages(students).items():
     print(f"  {name}: {avg:.2f}")
 
 top_name, top_avg = get_top_student(students)
