@@ -1,7 +1,7 @@
 employees = {
-    "E101": {"name": "Ali",   "department": "IT",      "salary": 85000, "title": "Developer"},
-    "E102": {"name": "Sara",  "department": "HR",      "salary": 75000, "title": "HR Manager"},
-    "E103": {"name": "Ahmed", "department": "IT",      "salary": 95000, "title": "Team Lead"},
+    "E101": {"name": "Ali",   "department": "IT",      "salary": 85000, "title": "AI systems developer"},
+    "E102": {"name": "Ridhwan",  "department": "HR",      "salary": 75000, "title": "HR Manager"},
+    "E103": {"name": "Ahmer", "department": "IT",      "salary": 95000, "title": "Team Lead"},
 }
 
 
