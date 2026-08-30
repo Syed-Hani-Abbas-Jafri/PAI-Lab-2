@@ -1,10 +1,10 @@
 from collections import Counter
 
 employees = [
-    ("E101", "Ali",   "IT",      85000),
-    ("E102", "Sara",  "HR",      75000),
-    ("E103", "Ahmed", "IT",      95000),
-    ("E104", "Zain",  "Finance", 90000),
+    ("E101", "Ali",   "IT",      85040),
+    ("E102", "Iliya",  "HR",      75090),
+    ("E103", "Surayj", "IT",      95000),
+    ("E104", "Makdisi",  "Finance", 90900),
 ]
 
 employees_by_id = {}
